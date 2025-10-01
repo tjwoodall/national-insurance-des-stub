@@ -79,7 +79,7 @@ components:
       style: simple
       schema:
         type: string
-        example: 2234567890
+        example: '2234567890'
     taxYear:
       name: taxYear
       in: path
